@@ -8,3 +8,15 @@
     background-color: #581B3B;
     color: #fff;
 }
+
+.bg-violeta {
+    background-color: #6F1C48;
+}
+
+.nav-black {
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
