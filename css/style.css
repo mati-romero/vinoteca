@@ -1,0 +1,10 @@
+.btn-violeta {
+    color: #fff;
+    background-color: #6F1C48;
+    border-color: #6F1C48;
+}
+
+.btn-violeta:hover {
+    background-color: #581B3B;
+    color: #fff;
+}
